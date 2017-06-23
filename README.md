@@ -1,6 +1,7 @@
-# DavidWells.io
+# snysi.de
 
-Forked from [Serverless Site](https://serverless.com/)
+Forked from [DavidWells.io](github.com/davidwells/davidwells.io) 
+Which Forked From [Serverless Site](https://serverless.com/)
 
 This site is 100% serverless! :tada:
 
